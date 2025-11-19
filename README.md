@@ -51,8 +51,8 @@ Desenvolver um sistema de recomendação baseado em Machine Learning que:
 
 ```bash
 # Clone o repositório
-git clone [URL_DO_REPOSITORIO]
-cd GS2-FRONT_END
+git clone https://github.com/pazil/gs2_front_end.git
+cd gs2_front_end
 
 # Crie um ambiente virtual
 python -m venv venv
@@ -99,13 +99,8 @@ GS2-FRONT_END/
 ## 🌐 Deploy
 
 O webapp está deployado no Streamlit Cloud:
-**[Link será adicionado após deploy]**
 
-### Instruções de Deploy
-
-Para instruções detalhadas de como fazer o deploy, consulte:
-- `INSTRUCTIONS.md` - Guia passo a passo
-- `DEPLOY_CHECKLIST.md` - Checklist completo
+**🔗 [https://gs2frontend.streamlit.app](https://gs2frontend.streamlit.app)**
 
 ## 📝 Metodologia
 
@@ -130,7 +125,7 @@ Este projeto foi desenvolvido para fins acadêmicos como parte da Global Solutio
 
 ## 🔗 Links
 
-- **Repositório GitHub**: [URL_DO_REPOSITORIO]
-- **Webapp Deployado**: [URL_DO_WEBAPP]
+- **Repositório GitHub**: https://github.com/pazil/gs2_front_end
+- **Webapp Deployado**: https://gs2frontend.streamlit.app
 - **Documentação Completa**: Ver arquivo PDF entregue no portal FIAP
 
