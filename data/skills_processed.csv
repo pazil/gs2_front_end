@@ -1,0 +1,123 @@
+occupation_code,skill_name,importance,level
+15-1252.00,Programming,82,4
+15-1252.00,Problem Solving,94,3
+15-1252.00,Web Development,80,4
+15-1252.00,Mobile Development,79,3
+15-1252.00,Agile Methodologies,78,5
+15-1252.00,Teamwork,84,3
+15-1252.00,Critical Thinking,73,4
+15-1299.08,Data Analysis,92,5
+15-1299.08,Machine Learning,76,5
+15-1299.08,Programming,73,5
+15-1299.08,Statistical Analysis,72,3
+15-1299.08,Data Visualization,76,3
+15-1299.08,Problem Solving,99,5
+15-1299.08,Critical Thinking,75,3
+15-1256.00,Programming,90,4
+15-1256.00,Problem Solving,87,5
+15-1256.00,Critical Thinking,73,4
+15-1256.00,Communication,71,5
+15-1256.00,Agile Methodologies,77,4
+15-1256.00,Time Management,91,5
+15-1244.00,Cloud Computing,91,4
+15-1244.00,Database Management,80,5
+15-1244.00,Cybersecurity,85,5
+15-1244.00,Problem Solving,97,3
+15-1244.00,Communication,87,5
+15-1244.00,Time Management,80,4
+15-1299.09,Cybersecurity,98,5
+15-1299.09,Problem Solving,84,5
+15-1299.09,Critical Thinking,76,5
+15-1299.09,Communication,78,3
+15-1299.09,Programming,84,5
+15-1299.09,Cloud Computing,74,5
+11-3021.00,Leadership,85,5
+11-3021.00,Project Management,89,4
+11-3021.00,Communication,79,3
+11-3021.00,Problem Solving,81,5
+11-3021.00,Business Analysis,72,4
+11-3021.00,Teamwork,72,3
+13-1161.01,Data Analysis,94,3
+13-1161.01,Research,82,3
+13-1161.01,Statistical Analysis,85,4
+13-1161.01,Communication,99,5
+13-1161.01,Problem Solving,91,5
+13-1161.01,Marketing,97,3
+19-3033.00,Research,72,4
+19-3033.00,Data Analysis,70,3
+19-3033.00,Statistical Analysis,97,3
+19-3033.00,Communication,90,4
+19-3033.00,Critical Thinking,93,4
+19-3033.00,Healthcare Knowledge,98,5
+29-1141.03,Medical Diagnosis,85,4
+29-1141.03,Patient Care,73,3
+29-1141.03,Healthcare Knowledge,83,3
+29-1141.03,Communication,86,5
+29-1141.03,Problem Solving,77,5
+29-1141.03,Critical Thinking,90,5
+29-1299.01,Medical Diagnosis,71,5
+29-1299.01,Patient Care,90,3
+29-1299.01,Healthcare Knowledge,90,5
+29-1299.01,Remote Collaboration,80,3
+29-1299.01,Communication,75,3
+29-1299.01,Adaptability,78,3
+27-3042.00,Technical Writing,94,4
+27-3042.00,Communication,77,3
+27-3042.00,Research,75,3
+27-3042.00,Critical Thinking,99,3
+27-3042.00,Time Management,97,4
+27-3042.00,Adaptability,90,3
+41-3099.01,Sales,93,4
+41-3099.01,Communication,82,3
+41-3099.01,Renewable Energy,71,4
+41-3099.01,Customer Service,75,4
+41-3099.01,Problem Solving,81,4
+41-3099.01,Adaptability,88,5
+11-3121.00,HR Management,78,3
+11-3121.00,Leadership,70,5
+11-3121.00,Communication,83,3
+11-3121.00,Problem Solving,71,3
+11-3121.00,Business Analysis,80,4
+11-3121.00,Teamwork,82,3
+13-1199.05,Sustainability,92,4
+13-1199.05,Research,87,3
+13-1199.05,Business Analysis,98,3
+13-1199.05,Communication,90,4
+13-1199.05,Problem Solving,87,3
+13-1199.05,Project Management,71,5
+15-1299.07,Machine Learning,81,3
+15-1299.07,AI/Deep Learning,75,4
+15-1299.07,Programming,71,5
+15-1299.07,Data Analysis,85,4
+15-1299.07,Problem Solving,78,4
+15-1299.07,Critical Thinking,91,3
+17-2199.10,Programming,77,3
+17-2199.10,Problem Solving,98,4
+17-2199.10,Critical Thinking,98,4
+17-2199.10,Design,88,3
+17-2199.10,Project Management,92,5
+17-2199.10,Teamwork,98,3
+19-4061.00,Research,74,5
+19-4061.00,Data Analysis,94,4
+19-4061.00,Communication,96,5
+19-4061.00,Critical Thinking,97,4
+19-4061.00,Time Management,96,3
+19-4061.00,Teamwork,79,3
+25-1194.00,Communication,91,5
+25-1194.00,Leadership,85,3
+25-1194.00,Problem Solving,84,4
+25-1194.00,Adaptability,89,3
+25-1194.00,Critical Thinking,70,3
+25-1194.00,Teamwork,70,5
+27-1014.00,Design,86,5
+27-1014.00,Creativity,73,5
+27-1014.00,Animation,87,3
+27-1014.00,3D Modeling,99,5
+27-1014.00,Video Editing,92,4
+27-1014.00,Problem Solving,91,5
+43-9199.01,Customer Service,89,3
+43-9199.01,Communication,95,3
+43-9199.01,Problem Solving,83,5
+43-9199.01,Remote Collaboration,98,3
+43-9199.01,Time Management,87,5
+43-9199.01,Adaptability,97,5

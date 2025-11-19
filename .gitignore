@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files
+# IMPORTANTE: Para deploy, você DEVE commitar os arquivos de dados
+# Descomente as linhas abaixo durante desenvolvimento, mas comente antes do deploy
+# data/*.csv
+# data/*.xlsx
+# data/*.json
+!data/.gitkeep
+
+# Models
+# IMPORTANTE: Para deploy, você DEVE commitar os modelos treinados
+# Descomente as linhas abaixo durante desenvolvimento, mas comente antes do deploy
+# app/model/*.pkl
+# app/model/*.joblib
+!app/model/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+

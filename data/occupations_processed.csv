@@ -1,0 +1,21 @@
+occupation_code,occupation_title,description,median_salary,projected_growth,num_jobs_2024,num_jobs_2034,job_growth_absolute,salary_category,growth_category,is_future_job
+15-1252.00,Software Developers,Develop and maintain software applications and systems,110140,25.7,1847900,2322810,474910,Alto,Alto,True
+15-1299.08,Data Scientists,Analyze complex data to help organizations make better decisions,103500,35.8,168200,228415,60215,Alto,Muito Alto,True
+15-1256.00,Software Quality Assurance Analysts,Test software for quality and performance,99620,22.4,203900,249573,45673,Alto,Alto,True
+15-1244.00,Network and Computer Systems Administrators,Manage and maintain computer networks and systems,88400,4.7,350300,366764,16464,Alto,Baixo,False
+15-1299.09,Cybersecurity Analysts,Protect computer systems from cyber threats,112000,32.4,163000,215812,52812,Alto,Muito Alto,True
+11-3021.00,Computer and Information Systems Managers,Plan and direct IT-related activities,159010,15.4,482600,556920,74320,Muito Alto,Médio,True
+13-1161.01,Market Research Analysts,Research market conditions and consumer preferences,68230,18.6,792500,939905,147405,Médio,Médio,True
+19-3033.00,Clinical Data Managers,Manage and analyze clinical trial data,89830,7.3,12500,13412,912,Alto,Baixo,False
+29-1141.03,Physician Assistants,Practice medicine under physician supervision,121530,27.6,148100,188975,40875,Muito Alto,Alto,True
+29-1299.01,Telemedicine Physicians,Provide medical care through telemedicine platforms,135000,28.3,8900,11418,2518,Muito Alto,Alto,True
+27-3042.00,Technical Writers,Create technical documentation and manuals,78060,11.9,56900,63671,6771,Médio,Médio,False
+41-3099.01,Sales Representatives (Renewable Energy),Sell renewable energy products and services,79990,24.2,45200,56138,10938,Médio,Alto,True
+11-3121.00,Human Resources Managers,Plan and coordinate human resource activities,126230,8.6,165200,179407,14207,Muito Alto,Baixo,False
+13-1199.05,Sustainability Specialists,Develop and implement sustainability strategies,81410,19.7,15700,18792,3092,Alto,Médio,True
+15-1299.07,Machine Learning Engineers,Design and build machine learning systems,120000,40.1,42300,59262,16962,Alto,Muito Alto,True
+17-2199.10,Robotics Engineers,Design and develop robotic systems,105000,9.7,18700,20513,1813,Alto,Baixo,False
+19-4061.00,Social Science Research Assistants,Assist in social science research projects,51500,6.8,45800,48914,3114,Médio,Baixo,False
+25-1194.00,Career and Technical Education Teachers,Teach vocational and technical subjects,62000,5.4,232500,245055,12555,Médio,Baixo,False
+27-1014.00,Multimedia Artists and Animators,Create visual effects and animations,78790,16.2,76900,89357,12457,Médio,Médio,True
+43-9199.01,Customer Service Representatives (Remote),Provide remote customer support and service,38080,4.1,3008900,3132264,123364,Baixo,Baixo,False
