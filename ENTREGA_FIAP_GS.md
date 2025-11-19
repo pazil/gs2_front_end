@@ -17,6 +17,11 @@
 - **LORENA BAUER NOGUEIRA** - RM: 555272
 - **HERBERT DI FRANCO MARQUES** - RM: 556640
 
+## 🔗 Links do Projeto
+
+- **Repositório GitHub**: https://github.com/pazil/gs2_front_end
+- **Webapp Deployado**: https://gs2frontend.streamlit.app
+
 ---
 
 # 1. DESCRIÇÃO DO PROJETO
@@ -206,6 +211,13 @@ Desenvolver um sistema inteligente de recomendação que auxilie profissionais a
 3. **Flexibilidade**: Não requer re-treinamento ao adicionar novos usuários
 4. **Adequação**: Ideal para encontrar itens similares baseado em características
 5. **Simplicidade**: Implementação direta e manutenível
+
+
+
+
+
+
+
 
 ### Arquitetura do Sistema:
 
