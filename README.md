@@ -6,9 +6,9 @@ Sistema inteligente que recomenda profissões do futuro baseado nas habilidades 
 
 ## 👥 Integrantes do Grupo
 
-- [Nome Completo] - RM: [XXXXX]
-- [Nome Completo] - RM: [XXXXX]
-- [Nome Completo] - RM: [XXXXX]
+- PAULO CARVALHO RUIZ BORBA - RM: 554562
+- LORENA BAUER NOGUEIRA - RM: 555272
+- HERBERT DI FRANCO MARQUES - RM: 556640
 
 ## 📋 Sobre o Projeto
 
